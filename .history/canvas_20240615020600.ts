@@ -1,0 +1,1 @@
+cont canvas:HTMLCanvasElement | null = 
